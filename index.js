@@ -1,4 +1,4 @@
-let apiKey = '';
+const apiKey = '';
 const searchUrl = "https://api.github.com/";
 
 function displayResults(responseJson){
